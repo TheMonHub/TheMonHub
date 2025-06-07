@@ -1,8 +1,9 @@
-- 👋 Hi, I’m TheMonHub also known as Mono
-- 👀 I’m interested in coding (cuz why not?) and I'm 15 years old, Thailand programmer with passion.
-- 📫 to reach me use this email mono15.parnthakote@gmail.com
+- 👋 I’m **Mono (TheMonHub)**. At 15, I'm a self-taught, **perfectionist C++ programmer from Thailand**, driven by pure passion.
+- 👀 My interest lies in unraveling the complexities of software, and building robust foundations. I've progressed from high-level game development to the intricate world of system-level programming.
+- ✨ My focus right now is **LumiFramework**, my debut C++ project. It's a modular, cross-platform library designed to streamline desktop application development by eliminating boilerplate and providing deep developer control.
+- 📫 Feel free to reach out at mono15.parnthakote@gmail.com
 
 <!---
-mono421/mono421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mono421/TheMonHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
