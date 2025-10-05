@@ -15,14 +15,14 @@ Enough backstory, Hey! Do you know I can code in multiple languages?
 - lua
   - luau (roblox lua)
   - LÖVE2D
-- C-based language
+- C-family
   - C (the original itself)
   - C++
   - C#
 - Assembly
   - NASM
 
-That's a lot (6 languages)... Anyway, I do stuff by passion and I learn by myself.
+That's a lot (6 languages)... Anyway, I do stuff by passion and I learn by myself + a bit of AI.
 
  ---
 
@@ -36,12 +36,12 @@ I can do music too... Mostly.. Usually remix or something similar. Though I can'
 
  ---
 
- ### AI??
+ ### AI?? me no like u!
  
-I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though at the end I have to go through specifications or documentation. which make me questions why do I even use AI. maybe just to chat with because I'm lonely?
+I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though I usually ended have to go through specifications or documentation. which make me questions why do I even use AI. maybe just to chat with because I'm lonely?
 
  My skills are genuine. Without AI I can still code and such.
 
 ---
 
- Wanna chat? I have [Discord](https://discord.gg/5JS24UBx).
+ Wanna chat? I have [Discord](https://discord.gg/5JS24UBx). Please chat with me I'm desperate.
