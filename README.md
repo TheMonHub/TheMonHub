@@ -13,12 +13,12 @@ Without Scratch I would not be interested in this path.
 Enough backstory, Hey! Do you know I can code in multiple languages?
 
 - lua
-  - luau (roblox lua)
+  - Luau (Roblox Lua)
   - LÖVE2D
 - C-family
-  - C (the original itself)
+  - C
   - C++
-  - C#
+  - C# Unity
 - Assembly
   - NASM
 
