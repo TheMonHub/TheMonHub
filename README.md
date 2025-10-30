@@ -38,10 +38,11 @@ I can do music too... Mostly.. Usually remix or something similar. Though I can'
 
  ### AI?? me no like u!
  
-I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though I usually ended have to go through specifications or documentation. which make me questions why do I even use AI. maybe just to chat with because I'm lonely?
+I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though I usually ended have to go through specifications or documentation. which make me questions why do I even use AI. maybe just to chat with because I'm lonely? lmao.
 
- My skills are genuine. Without AI I can still code and such.
+My skills are genuine. Without AI I can still code and such.
 
 ---
 
- Wanna chat? I have [Discord](https://discord.gg/5JS24UBx). Please chat with me I'm desperate.
+Wanna chat? I have Discord. Please chat with me I'm desperate.
+Discord username: `.monhub`
