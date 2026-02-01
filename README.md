@@ -46,4 +46,4 @@ My skills are genuine. Without AI, I can still code and such.
 
 Wanna chat? I have Discord. Please chat with me, I'm desperate.
 
-Discord username: `.monhub`
+Discord username: `themonhub`
