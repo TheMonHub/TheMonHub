@@ -2,7 +2,7 @@ Howdy-? I'm a 15-year-old programmer from Thailand. You can call me **Mono**. My
 
 ---
 
-I started programming since I was like. 9 or more maybe? I forgot ;-; -but it was with [`Scratch`](https://scratch.mit.edu)
+I started programming since I was like 9 or more or less maybe? I forgot ;-; -but it was with [`Scratch`](https://scratch.mit.edu)
 
 Of course. Don't expect me to just code when I was 9, Of course it's Scratch.
 
@@ -13,16 +13,14 @@ Without Scratch, I would not be interested in this path.
 Enough backstory, Hey! Do you know I can code in multiple languages?
 
 - lua
-  - Luau (Roblox Lua)
-  - LÖVE2D
-- C-family
-  - C
-  - C++
-  - C# Unity
-- Assembly
-  - NASM
+- C
+- C++
+- C#
+- Java
+- TypeScript
+- NASM
 
-That's a lot (6 languages)... Anyway, I do stuff by passion, and I learn by myself + a bit of AI.
+That's a lot... Anyway, I do stuff by passion, and I learn by myself + a bit of AI.
 
  ---
 
@@ -38,7 +36,7 @@ I can do music too... Mostly. Usually remix or something similar. Though I can't
 
 ### AI?? me no like u!
 
-I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though I usually ended having to go through specifications or documentation. Which makes me question why I even use AI. Maybe just to chat with because I'm lonely? Lmao.
+I might use AI but me no vibe code. I just use AI to search stuff for me or teach stuff or tell me something I don't know. Though I usually ended up having to go through specifications or documentation. Which makes me question why I even use AI. Maybe just to chat with because I'm lonely? Lmao.
 
 My skills are genuine. Without AI, I can still code and such.
 
@@ -46,4 +44,4 @@ My skills are genuine. Without AI, I can still code and such.
 
 Wanna chat? I have Discord. Please chat with me, I'm desperate.
 
-Discord username: `themonhub`
+Discord username: [themonhub](https://discord.com/users/821245520990306324)
